@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tu">
+        <item>Agreement</item>
+        <item>Agree</item>
+        <item>Assurance </item>
+        <item>Cancel</item>
+        <item>Determine</item>
+        <item>Engage</item>
+        <item>Establish</item>
+        <item>Obligate</item>
+        <item>Obligation</item>
+        <item>Party</item>
+        <item>Provision</item>
+        <item>Resolve</item>
+        <item>Specify</item>
+        <item>Specification</item>
+        <item>Attract</item>
+        <item>Compare</item>
+        <item>Comparison</item>
+        <item>Compete</item>
+        <item>Consume</item>
+        <item>Consumer</item>
+        <item>consumable</item>
+        <item>Convince</item>
+        <item>Fad</item>
+        <item>Inspire</item>
+        <item>Persuade</item>
+        <item>Productive</item>
+        <item>Satisfy</item>
+        <item>Characteristic</item>
+        <item>Consequence</item>
+        <item>Consider</item>
+        <item>Cover</item>
+        <item>Expire</item>
+        <item>Frequently</item>
+        <item>Imply</item>
+        <item>Promise</item>
+        <item>Protect</item>
+        <item>Reputation</item>
+        <item>Reputable</item>
+        <item>Require</item>
+        <item>Vary</item>
+        <item>Avoid</item>
+        <item>Demonstrate</item>
+        <item>Develop</item>
+        <item>Evaluate</item>
+        <item>Gather</item>
+        <item>Primary</item>
+        <item>Risk</item>
+        <item>Strategy</item>
+        <item>Substitute</item>
+        <item>Accommodate</item>
+        <item>Arrangement</item>
+        <item>Association </item>
+        <item>Attend</item>
+        <item>Hold</item>
+        <item>Overcrowded</item>
+        <item>Take part in</item>
+        <item>Allocate</item>
+        <item>Compatible</item>
+        <item>Duplicate</item>
+        <item>Fail</item>
+        <item>Figure out</item>
+        <item>Ignore</item>
+        <item>Warn</item>
+        <item>Affordable</item>
+        <item>Be in charge of</item>
+        <item>Capacity</item>
+        <item>Durable</item>
+        <item>Initiative</item>
+        <item>Physical</item>
+        <item>Recur</item>
+        <item>Reduction</item>
+        <item>Stay on top</item>
+        <item>Stock</item>
+        <item>Appreciate</item>
+        <item>Bring in</item>
+        <item>Casual</item>
+        <item>Glimpse</item>
+        <item>Outdated</item>
+        <item>Reinforce</item>
+        <item>Verbal</item>
+        <item>Facilitate</item>
+        <item>Process</item>
+        <item>Revolution</item>
+        <item>Storage</item>
+        <item>Assemble</item>
+        <item>Beforehand</item>
+        <item>Complicated</item>
+        <item>Courier</item>
+        <item>Express</item>
+        <item>Fold</item>
+        <item>Layout</item>
+        <item>Mention</item>
+        <item>Petition</item>
+        <item>Proof</item>
+        <item>Revise</item>
+        <item>Abundant</item>
+        <item>Candidate</item>
+        <item>Come up with</item>
+        <item>Match</item>
+        <item>Recruit</item>
+        <item>Submit</item>
+        <item>Submission</item>
+        <item>Ability</item>
+        <item>Confidence</item>
+        <item>Constantly</item>
+        <item>Hesitate</item>
+        <item>Conduct</item>
+        <item>Hire</item>
+        <item>Keep up with</item>
+        <item>Look up to </item>
+        <item>Mentor</item>
+        <item>On track</item>
+        <item>Reject</item>
+        <item>Be aware of</item>
+        <item>Benefits</item>
+        <item>Compensate</item>
+        <item>Delicate</item>
+        <item>Eligible</item>
+        <item>Flexible</item>
+        <item>Negotiate</item>
+		<item>Retire</item>
+		<item>Vested</item>
+		<item>Contribute</item>
+		<item>Dedication</item>
+		<item>Look forward to</item>
+		<item>Looked to</item>
+		<item>Loyal</item>
+		<item>Merit</item>
+		<item>Obvious</item>
+		<item>Productive</item>
+		<item>Promote</item>
+		<item>Recognition</item>
+		<item>Bargain</item>
+		<item>Bear</item>
+		<item>Behavior</item>
+		<item>Checkout</item>
+		<item>Expand</item>
+		<item>Explore</item>
+		<item>Mandatory</item>
+		<item>Merchandise</item>
+		<item>Strict</item>
+		<item>Trend</item>
+		<item>Diverse</item>
+		<item>Essential</item>
+		<item>Maintain</item>
+		<item>Obtain</item>
+		<item>Prerequisite</item>
+		<item>Stationery</item>
+		<item>Accurate</item>
+		<item>Catalog</item>
+		<item>Fulfill</item>
+		<item>Integral</item>
+		<item>Inventory</item>
+		<item>On hand</item>
+		<item>Sufficient</item>
+		<item>Supply</item>
+		<item>Charge</item>
+		<item>Compile</item>
+		<item>Estimate</item>
+		<item>Impose</item>
+		<item>Prompt</item>
+		<item>Rectify</item>
+		<item>Term</item>
+		<item>Adjust</item>
+		<item>Crucial</item>
+		<item>Discrepancy</item>
+		<item>Disturb</item>
+		<item>Disturbance</item>
+		<item>Liability</item>
+		<item>Reflect</item>
+		<item>Subtract</item>
+		<item>Tedious</item>
+		<item>Verify</item>
+		<item>Balance</item>
+		<item>Cautious</item>
+		<item>Deduct</item>
+		<item>Dividend</item>
+		<item>Mortgage</item>
+		<item>Restriction</item>
+		<item>Take out</item>
+		<item>Transaction</item>
+		<item>Accounting</item>
+		<item>Accountant</item>
+		<item>Accumulate</item>
+		<item>Asset</item>
+		<item>Audit</item>
+		<item>Budget</item>
+		<item>Client</item>
+		<item>Debt</item>
+		<item>Outstanding</item>
+		<item>Profitable</item>
+		<item>Reconcile</item>
+		<item>Turnover</item>
+		<item>Aggressive</item>
+		<item>Attitude</item>
+		<item>Commitment</item>
+		<item>Conservative</item>
+		<item>Invest</item>
+		<item>Portfolio</item>
+		<item>Wise</item>
+    </string-array>
+    <string-array name="nghia">
+        <item>hợp đồng, giao kèo</item>
+        <item>đồng ý, tán thành</item>
+        <item>sự chắc chắn</item>
+        <item>hủy bỏ</item>
+        <item>xác định, định rõ</item>
+        <item>tuyển dụng, thuê</item>
+        <item>lập, thành lập</item>
+        <item>bắt buộc, ép buộc</item>
+        <item>nghĩa vụ, bổn phận</item>
+        <item>buổi tiệc, liên hoan</item>
+        <item>điều khoản</item>
+        <item>quyết tâm, ý kiên quyết</item>
+        <item>định rõ, ghi chú</item>
+        <item>rõ ràng, rành mạch</item>
+        <item>thu hút, hấp dẫn</item>
+        <item>so, đối chiếu</item>
+        <item>có thể so sánh</item>
+        <item>đua tranh, cạnh tranh</item>
+        <item>dùng, tiêu thụ</item>
+        <item>người tiêu dùng</item>
+        <item>có thể tiêu thụ</item>
+        <item>thuyết phục</item>
+        <item>mốt</item>
+        <item>truyền (cảm hứng)</item>
+        <item>làm cho tin</item>
+        <item>sản xuất</item>
+        <item>làm vừa lòng</item>
+        <item>riêng, riêng biệt</item>
+        <item>tầm quan trọng</item>
+        <item>cân nhắc, xem xét</item>
+        <item>che, phủ, bao phủ</item>
+        <item>mãn hạn, kết thúc</item>
+        <item>thường xuyên</item>
+        <item>ngụ ý, bao hàm ý</item>
+        <item>lời hứa</item>
+        <item>bảo vệ, che chở</item>
+        <item>tiếng tốt, thanh danh</item>
+        <item>có tiếng tốt, danh giá</item>
+        <item>đòi hỏi, yêu cầu</item>
+        <item>làm thay đổi</item>
+        <item>tránh, tránh xa</item>
+        <item>chứng minh, giải thích</item>
+        <item>phát triển, mở mang</item>
+        <item>ước lượng , định giá</item>
+        <item>tập hợp lại</item>
+        <item>chủ yếu, chính</item>
+        <item>sự rủi ro</item>
+        <item>chiến lược</item>
+        <item>thế, thay thế</item>
+        <item>điều tiết</item>
+        <item>sự sắp xếp</item>
+        <item>hội, đoàn thể</item>
+        <item>dự, có mặt</item>
+        <item>tổ chức, tiến hành</item>
+        <item>kéo, dồn vào đông</item>
+        <item>tham gia, tham dự</item>
+        <item>chỉ định, chia phần</item>
+        <item>tương tác, thích ứng</item>
+        <item>bản sao, gấp đôi</item>
+        <item>trượt, không thành công</item>
+        <item>chỉ ra, hiểu ra</item>
+        <item>bỏ qua, lờ đi</item>
+        <item>cảnh báo</item>
+        <item>hợp lý</item>
+        <item>có trách nhiệm</item>
+        <item>sức chứa, khả năng</item>
+        <item>lâu bền</item>
+        <item>sáng kiến</item>
+        <item>vật chất</item>
+        <item>tái diễn, tái hiện</item>
+        <item>thu nhỏ, giảm bớt</item>
+        <item>cập nhật</item>
+        <item>dự trữ, cổ phần</item>
+        <item>đánh giá cao</item>
+        <item>dẫn tới, mang tới</item>
+        <item>thân mật</item>
+        <item>lướt qua, thoáng qua</item>
+        <item>hết hạn</item>
+        <item>củng cố, gia cố</item>
+        <item>bằng lời nói</item>
+        <item>làm cho dễ dàng</item>
+        <item>quy trình</item>
+        <item>cuộc cách mạng</item>
+        <item>kho, sự dự trữ</item>
+        <item>thu thập, lắp ráp</item>
+        <item>sớm, trước</item>
+        <item>phức tạp</item>
+        <item>người chuyển phát</item>
+        <item>chuyển phát nhanh</item>
+        <item>bao bọc, gấp lại</item>
+        <item>Sự bố trí </item>
+        <item>đưa ra, đề cập đến</item>
+        <item>lời đề nghị</item>
+        <item>bằng chứng</item>
+        <item>sửa lại, bản sửa</item>
+        <item>nhiều, thừa thãi</item>
+        <item>thí sinh</item>
+        <item>ý định</item>
+        <item>vừa</item>
+        <item>tuyển dụng</item>
+        <item>biện hộ</item>
+        <item>sự biện hộ</item>
+        <item>khả năng</item>
+        <item>tự tin</item>
+        <item>liên tục, luôn luôn</item>
+        <item>do dự, lưỡng lự</item>
+        <item>hướng dẫn, chỉ đạo</item>
+        <item>thuê, mướn</item>
+        <item>giữ cân bằng</item>
+        <item>Khâm phục, ngưỡng mộ</item>
+        <item>người cố vấn</item>
+        <item>Theo dõi</item>
+        <item>từ chối</item>
+        <item>am hiểu về</item>
+        <item>tiền trợ cấp</item>
+        <item>bồi thường, đền bù</item>
+        <item>nhạy bén, khéo léo</item>
+        <item>đủ tư cách</item>
+        <item>dễ uốn nắn</item>
+        <item>đàm phán</item>
+		<item>nghỉ hưu</item>
+		<item>được quyền, được phép</item>
+		<item>đóng góp, góp phần</item>
+		<item>cống hiến</item>
+		<item>chờ đợi, mong đợi</item>
+		<item>phụ thuộc vào</item>
+		<item>trung thành</item>
+		<item>xuất sắc</item>
+		<item>rõ ràng, hiển nhiên</item>
+		<item>năng suất</item>
+		<item>đề đạt</item>
+		<item>sự công nhận</item>
+		<item>mặc cả</item>
+		<item>chịu đựng</item>
+		<item>cách ứng xử, đối xử</item>
+		<item>thanh toán</item>
+		<item>mở rộng, nới rộng</item>
+		<item>thăm dò, khảo sát</item>
+		<item>bắt buộc</item>
+		<item>hàng hóa mua bán</item>
+		<item>chặt chẽ</item>
+		<item>xu hướng, xu thế</item>
+		<item>đa dạng</item>
+		<item>cần thiết</item>
+		<item>duy trì</item>
+		<item>đạt được, có được</item>
+		<item>điều kiện ưu tiên</item>
+		<item>đồ dùng văn phòng</item>
+		<item>đúng, chính xác</item>
+		<item>sách danh mục chi tiết</item>
+		<item>hoàn thành(công việc)</item>
+		<item>cần thiết, ko thể thiếu</item>
+		<item>Kiểm kê (hàng hóa)</item>
+		<item>sẵn sàng, sẵn có</item>
+		<item>vừa đủ</item>
+		<item>cung cấp</item>
+		<item>thu phí</item>
+		<item>thu thập</item>
+		<item>ước lượng. định giá</item>
+		<item>áp đặt, ép buộc</item>
+		<item>nhanh chóng</item>
+		<item>chỉnh sửa</item>
+		<item>điều khỏan</item>
+		<item>điều chỉnh, dàn xếp</item>
+		<item>chủ yếu</item>
+		<item>sự bất đồng, bất hòa</item>
+		<item>làm phiền</item>
+		<item>làm rối loạn, cản trở</item>
+		<item>trách nhiệm pháp lý</item>
+		<item>phản ánh</item>
+		<item>trừ đi, khấu trừ</item>
+		<item>chán ngắt, buồn tẻ</item>
+		<item>xác minh, kiểm lại</item>
+		<item>Số dư (tài khoản)</item>
+		<item>thận trọng</item>
+		<item>khấu trừ</item>
+		<item>tiền lãi cổ phần</item>
+		<item>cầm cố, thế chấp</item>
+		<item>giới hạn,hạn chế</item>
+		<item>rút tiền</item>
+		<item>giao dịch</item>
+		<item>sự thanh toán, tính toán</item>
+		<item>kế toán</item>
+		<item>tích lũy, lũy kế</item>
+		<item>tài sản</item>
+		<item>kiểm toán</item>
+		<item>ngân quỹ, ngân sách</item>
+		<item>khách hàng</item>
+		<item>khoản nợ</item>
+		<item>còn tồn, chưa giải quyết</item>
+		<item>có sinh lời</item>
+		<item>chấp nhận, cam chịu</item>
+		<item>doanh số, doanh thu</item>
+		<item>lấn sân, xâm chiếm</item>
+		<item>thái độ, quan điểm</item>
+		<item>thỏa thuận, cam kết</item>
+		<item>bảo thủ, thận trọng</item>
+		<item>đầu tư</item>
+		<item>danh mục vốn đầu tư</item>
+		<item>Từng trải, hiểu biết</item>
+    </string-array>
+</resources>
